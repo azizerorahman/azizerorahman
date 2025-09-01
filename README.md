@@ -55,8 +55,13 @@ const azizur_rahman = {
 
 <div align="center">
 
-![Daily Quotes](https://quotes-github-readme.vercel.app/api?theme=light)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?theme=light">
+  <img alt="Daily Quotes" src="https://quotes-github-readme.vercel.app/api?theme=light">
+</picture>
 
+<br>
 <br>
 
 **✨ Thanks for stopping by — let’s connect & build cool things together! 🚀**

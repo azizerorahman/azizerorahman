@@ -16,7 +16,7 @@
 ```javascript
 const azizur_rahman = {
   role: "Full-Stack Developer",
-  location: "Chengdu, China",
+  location: "Shanghai, China",
   education: "Software Engineering @ Sichuan University",
   currentWork: "Developer @ Machine Intelligence Lab",
   
